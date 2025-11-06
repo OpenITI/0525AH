@@ -2,7 +2,7 @@
 10#AUTH#ISM####AR: Muḥammad
 10#AUTH#KUNYA##AR: Abū Bakr
 10#AUTH#LAQAB##AR: Faḫr al-ʾIslām
-10#AUTH#NASAB##AR: b. Aḥmad b. Ḥusayn b. ʿUmar 
+10#AUTH#NASAB##AR: b. Aḥmad b. Ḥusayn b. ʿUmar
 10#AUTH#NISBA##AR: al-Šāšī
 10#AUTH#SHUHRA#AR: al-Šāšī
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0507-SHW-25
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q25453575
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: No EI2 entry. Information about him is taken from the introduction to his HilyatCulama. 
+90#AUTH#COMMENT##: No EI2 entry. Information about him is taken from the introduction to his HilyatCulama.

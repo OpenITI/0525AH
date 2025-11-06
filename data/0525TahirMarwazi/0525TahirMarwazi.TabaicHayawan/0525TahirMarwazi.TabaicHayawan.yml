@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -15,8 +16,8 @@
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.263:
     "[al-Marwazī's] apparently enyclopaedical Kitāb ṭabā'iʿ al-ḥayawān, which is extant
-    in two incomplete manuscripts, contains an important geographical part. 
-    V. Minorsky has researchd it, translated it into English and edited it in 1942. 
+    in two incomplete manuscripts, contains an important geographical part.
+    V. Minorsky has researchd it, translated it into English and edited it in 1942.
     In his opinion, the text is extraordinary: the chapter on China contains a unique
     report about the embassy sent by the ruler of Kitan (northern China)
     to Sultān Maḥmud, the conqueror of India (1027 AD). (...) One can say without
